@@ -1,0 +1,13 @@
+# Ignore processed data
+data/processed/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore pycache
+__pycache__/
+*.pyc

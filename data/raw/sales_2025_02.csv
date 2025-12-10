@@ -1,0 +1,21 @@
+order_id,order_date,region,country,customer_id,product_id,category,sub_category,quantity,unit_price,discount,profit
+2001,2025-02-01,North,India,C021,P021,Electronics,Mobile,1,22000,0.05,2500
+2002,2025-02-01,South,India,C022,P022,Electronics,Laptop,1,60000,0.10,7000
+2003,2025-02-02,East,India,C023,P023,Furniture,Chair,3,3200,0.00,750
+2004,2025-02-02,West,India,C024,P024,Furniture,Table,2,13000,0.05,2600
+2005,2025-02-03,North,India,C025,P025,Office Supplies,Pen,30,18,0.00,300
+2006,2025-02-03,South,India,C026,P026,Office Supplies,Notebook,20,75,0.05,350
+2007,2025-02-04,East,India,C027,P027,Electronics,Headphones,5,2300,0.10,1200
+2008,2025-02-04,West,India,C028,P028,Electronics,Monitor,1,11000,0.00,2700
+2009,2025-02-05,North,India,C029,P029,Furniture,Sofa,1,38000,0.15,5000
+2010,2025-02-05,South,India,C030,P030,Office Supplies,Stapler,8,140,0.00,320
+2011,2025-02-06,East,India,C031,P031,Electronics,Laptop,1,70000,0.05,9000
+2012,2025-02-06,West,India,C032,P032,Furniture,Chair,4,2900,0.10,800
+2013,2025-02-07,North,India,C033,P033,Electronics,Mobile,2,21000,0.00,3200
+2014,2025-02-07,South,India,C034,P034,Office Supplies,Paper,40,40,0.00,550
+2015,2025-02-08,East,India,C035,P035,Electronics,Tablet,1,25000,0.10,2800
+2016,2025-02-08,West,India,C036,P036,Furniture,Desk,1,19000,0.05,2300
+2017,2025-02-09,North,India,C037,P037,Office Supplies,Pen,50,17,0.00,480
+2018,2025-02-09,South,India,C038,P038,Electronics,Headphones,3,2600,0.15,900
+2019,2025-02-10,East,India,C039,P039,Electronics,Mobile,2,23000,0.00,2600
+2020,2025-02-10,West,India,C040,P040,Furniture,Table,1,16000,0.10,2000
