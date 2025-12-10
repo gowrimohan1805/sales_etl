@@ -19,4 +19,3 @@ order_id,order_date,region,country,customer_id,product_id,category,sub_category,
 1018,2025-01-09,South,India,C018,P018,Electronics,Headphones,4,2500,0.15,1000
 1019,2025-01-10,East,India,C019,P019,Electronics,Mobile,1,20000,0.00,2200
 1020,2025-01-10,West,India,C020,P020,Furniture,Desk,1,18000,0.10,2100
-s
